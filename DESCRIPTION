@@ -1,0 +1,11 @@
+Package: SwathTuner
+Type: Package
+Title: SwathTuner
+Version: 1.0.0
+Date: 2014-10-22
+Author: Aivett Bilbao
+Maintainer: Aivett Bilbao <aivett.bilbao@isb-sib.ch>
+Description: Building optimized precursor isolation windows for data-independent acquisition methods in Mass Spectrometry
+License: GNU General Public License 3
+Imports: shiny, ggplot2
+Suggests: testthat
